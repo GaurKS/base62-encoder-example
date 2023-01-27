@@ -1,0 +1,5 @@
+{
+  "language_id": "node",
+  "path": ".",
+  "scripts": ["pip install nltk==3.3", "index.js"]
+}
